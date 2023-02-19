@@ -17,11 +17,11 @@
 #### 🌱 Retos con los que estoy actualmente:
 * Mejorar mis conocimientos en codigo estudiando 1-2 horas diarias. 
 * Leer articulos :newspaper: relacionados al area de trabajo en la que me quiero desempeñar (Data Scientis, Big Data, Machine Learning, Python, Inteligencia Artificial, SQL).
-* Hacer ejercicio :weight_lifting_man: al menos 3 veces ala semana para mantenerme activa y saludable. 
+* Hacer ejercicio :weight_lifting_man: al menos 3 veces a la semana para mantenerme activa y saludable. 
 * Evitar gastar mucho tiempo en redes sociales o entretenimiento en general :skull_and_crossbones:.
 * Adaptarme a un estilo de vida saludable.
 
-#### :computer: Programming languages and tools: 
+#### :computer: Herramientas que utilizo: 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
@@ -35,7 +35,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 </p>
 
-#### 🏆 Github Stats:
+#### 🏆 Estadísticas de Github:
 <p>
   <img alt="yomirab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yomirab&show_icons=true&hide_border=true&theme=nord" width="52%"/>
 
